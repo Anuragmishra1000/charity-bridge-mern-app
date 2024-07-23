@@ -1,6 +1,6 @@
 # Charity Bridge
 
-Charity Bridge is a MERN-based payment gateway application that leverages Razorpay for secure and seamless donation transactions. Trusted by over 1000 customers, Charity Bridge simplifies the donation process, making it easy for users to contribute to causes they care about.
+Charity Bridge is a MERN-based payment gateway application that leverages Razorpay for secure and seamless donation transactions. Charity Bridge simplifies the donation process, making it easy for users to contribute to causes they care about.
 
 ![Charity Bridge Home Page](https://github.com/Anuragmishra1000/charity-bridge-react-app/blob/main/frontend/public/homepage.png?raw=true) <!-- You can include a banner image or logo of your project -->
 
