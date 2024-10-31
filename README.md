@@ -12,10 +12,8 @@ Charity Bridge is a MERN-based payment gateway application that leverages Razorp
 ## Features
 - **Secure Transactions**: Implemented Razorpay for secure donation processing.
 - **Multiple Payment Options**: Increased donation flexibility by 40% with options like credit card and UPI.
-- **Authenticated Transactions**: Unique payment reference numbers ensure authenticated transactions, reducing errors by 15%.
+- **Authenticated Transactions**: Unique payment reference numbers ensure authenticated transactions.
 - **High Success Rate**: Achieved a 95% success rate in payment gateway integration using RESTful APIs.
-- **Trusted by Customers**: Over 1000 customers trust Charity Bridge for their donations.
-- **High Transaction Volume**: Processes over 100 donations monthly, totaling Rs. 500,000.
 
 ## Technologies Used
 - **Frontend**: React.js, Chakra UI
